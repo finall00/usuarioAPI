@@ -1,0 +1,3 @@
+JWT_SECRET="Palavra "
+
+DATABASE_URL="url do banco"
